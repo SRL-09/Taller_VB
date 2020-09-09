@@ -1,0 +1,12 @@
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\bin\Debug\Taller01_Sastoque_Diego.exe.config
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\bin\Debug\Taller01_Sastoque_Diego.exe
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\bin\Debug\Taller01_Sastoque_Diego.pdb
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\bin\Debug\Taller01_Sastoque_Diego.xml
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.vbprojAssemblyReference.cache
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.Resources.resources
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.vbproj.GenerateResource.cache
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.exe
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.xml
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.pdb
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.frmEntrada.resources
+C:\Users\enrie\source\repos\Taller01_Sastoque_Diego\Taller01_Sastoque_Diego\obj\Debug\Taller01_Sastoque_Diego.frmInfo.resources
